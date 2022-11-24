@@ -20,4 +20,10 @@ I enjoy working in javascript ecosystem and have expertise in design, developmem
 <br />
 <br />
 
+### 📊 Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosnk)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 
