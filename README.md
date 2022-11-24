@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosnk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rickstaa&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rosnk&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rosnk/rosnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
