@@ -4,7 +4,7 @@
 
 # Hi there 👋, 
 <p>I'm a full stack developer from Nepal. 
-I enjoy working in [Java, nodeJS backend] && [React, ReactNative frontend]. </p>
+I enjoy working in **[Java, nodeJS backend] && [React, ReactNative frontend]**. </p>
 <p></p>I have expertise in design, developmemnt including devOps. </p>
 
 
