@@ -28,11 +28,8 @@ I enjoy working in javascript ecosystem and have expertise in design, developmem
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-<br />
-<br />
-
 ## Design Tools: 
-<img align="left" alt="adobexd" width="36px" height="36px" src="https://github.com/rosnk/rosnk/blob/main/xd.png" /><img align="left" alt="figma" width="26px" src="https://github.com/rosnk/rosnk/blob/main/figma.png" /><img align="left" alt="photoshop" width="26px" src="https://github.com/rosnk/rosnk/blob/main/photoshop.png" /><img align="left" width="120px" alt="tailwind" src="https://github.com/rosnk/rosnk/blob/main/tailwindcss-logotype.svg" />
+<img align="left" alt="adobexd" width="36px" height="36px" src="https://github.com/rosnk/rosnk/blob/main/xd.png" /><img align="left" alt="figma" width="36px" height="36px" src="https://github.com/rosnk/rosnk/blob/main/figma.png" /><img align="left" alt="photoshop" width="36px" height="36px" src="https://github.com/rosnk/rosnk/blob/main/photoshop.png" />
 
 <br />
 <br />
