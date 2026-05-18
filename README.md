@@ -3,7 +3,11 @@
 
 
 # Hi there 👋, 
-<p>I'm a full stack developer from Nepal. I have expertise in design, development including devOps. </p>
+<p>I'm a full stack developer and AGENTIC AI ENGINEER. I have expertise in design, development including devOps. </p>
+<p> Please checkmy project using agentic coding <br/>
+ - Repo:https://github.com/rosnk/pr-release-intelligence-platform)<br/>
+ - Live Preview cloudflare: https://2abc5845.pr-release-intelligence-platform.pages.dev/ 
+</p>
 <p>I enjoy working in: 
 <br />
  <strong>[Java, nodeJS backend] && [React, ReactNative frontend]</strong>.
